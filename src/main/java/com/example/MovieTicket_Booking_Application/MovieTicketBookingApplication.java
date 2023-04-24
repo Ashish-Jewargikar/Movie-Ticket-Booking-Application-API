@@ -8,7 +8,7 @@ public class MovieTicketBookingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MovieTicketBookingApplication.class, args);
-System.out.println("welcome !!");
+System.out.println("welcome to Book My Show !!");
 	}
 
 }
